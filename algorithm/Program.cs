@@ -3,6 +3,7 @@ using singleLinkerList;
 
 Console.WriteLine("Hello, World!");
 
+//! BÀI 1
 singleLinkerList.Node head = new Node(1);
 singleLinkerList.Node second = new Node(2);
 singleLinkerList.Node third = new Node(3);
@@ -24,6 +25,14 @@ while (p != null)
     p = p.next;
     Console.Write(data + "->");
 }
+
+
+
+
+
+
+
+
 
 
 
