@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nbwdPhx4nGCPpFPvjv6LkUQFCAH+Y/t2czvLEgAWcwtVDL29zsVZ+micJ8h2+A9986V8iGmA8Q/4SXAJ7IoJ3A==",
+  "dgSpecHash": "xakmLxfqGjZo4FcGWmziINE9ityAdYXlQpGtpeZusXIME0z5RivXilAv0NGRzOlAxd9sN3xq/I6NORYUKDZbcw==",
   "success": true,
-  "projectFilePath": "D:\\Algorithm\\algorithm\\algorithm.csproj",
+  "projectFilePath": "D:\\Algorithm\\Algorithm\\Algorithm.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
